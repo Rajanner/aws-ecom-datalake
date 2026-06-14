@@ -1,0 +1,1 @@
+This project demonstrates a serverless Data Lake architecture built on AWS.
