@@ -1,0 +1,7 @@
+1. Create S3 Bucket
+2. Upload CSV
+3. Configure Athena
+4. Create Raw Table
+5. Create Processed Table
+6. Create Curated Table
+7. Run Analytics Queries
